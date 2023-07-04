@@ -7,6 +7,7 @@ This file is my notebook along the way.
 
 1. Getting Started
     - 1.2 Hello, World! ([Code](./hello_world) | [Docs](https://doc.rust-lang.org/book/ch01-02-hello-world.html))
+    - 1.3 Hello, Cargo! ([Code](./hello_cargo) | [Docs](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html))
 
 ## Commands
 
@@ -23,3 +24,14 @@ This file is my notebook along the way.
 |---|---|
 | `rustup update` | Updates Rust version |
 | `rustup self uninstall` | Uninstalls Rust |
+
+### `cargo`
+
+| Command | Description |
+|---|---|
+| `cargo --version` | Prints Cargo version information |
+| `cargo new <project-name>` | Creates new Cargo project |
+| `cargo build` | Compiles Cargo project |
+| `cargo build --release` | Compiles for release with optimizations |
+| `cargo run` | Compiles and runs Cargo project |
+| `cargo check` | Checks code is compilable |
