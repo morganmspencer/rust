@@ -6,9 +6,12 @@ This file is my notebook along the way.
 ## Project Directory
 
 1. Getting Started
-    - 1.2 Hello, World! ([Code](./hello_world) | [Docs](https://doc.rust-lang.org/book/ch01-02-hello-world.html))
-    - 1.3 Hello, Cargo! ([Code](./hello_cargo) | [Docs](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html))
-2. Programming a GUessing Game ([Code](./guessing_game) | [Docs](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html))
+    - 1.2. [Hello, World!](https://doc.rust-lang.org/book/ch01-02-hello-world.html) | [Code](./hello_world)
+    - 1.3. [Hello, Cargo!](https://doc.rust-lang.org/book/ch01-03-hello-cargo.html) | [Code](./hello_cargo)
+2. [Programming a Guessing Game](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html) | [Code](./guessing_game)
+3. Common Programming Concepts
+    - 3.1. [Variables and Mutability](https://doc.rust-lang.org/book/ch03-01-variables-and-mutability.html) | [Code](./variables)
+
 
 ## Commands
 
